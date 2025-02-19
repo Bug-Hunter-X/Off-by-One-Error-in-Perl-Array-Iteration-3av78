@@ -1,0 +1,1 @@
+This repository contains a simple Perl program demonstrating a common off-by-one error when iterating through arrays.  The bug and its solution are provided in separate files for clarity. The bug showcases how incorrect array indexing can lead to unexpected results or program crashes. The solution highlights the correct method of array traversal avoiding out-of-bounds access.
